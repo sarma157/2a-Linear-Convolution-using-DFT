@@ -7,6 +7,7 @@ PC installed with SCILAB
 
 PROGRAM:
 LINEAR CONVOLUTION
+
 <img width="669" height="770" alt="image" src="https://github.com/user-attachments/assets/ab811a8c-bd8e-4d26-88d8-4d4d32b28bf4" />
 
 
